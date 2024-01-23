@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "latest",
-    "gatsby": "latest",
+    "gatsby": "5.13.2",
     "gatsby-theme-material-ui": "latest",
     "react": "latest",
     "react-dom": "latest",
