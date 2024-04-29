@@ -112,7 +112,7 @@
     "url-loader": "^2.1.0",
     "webfontloader": "^1.6.28",
     "webpack": "^4.41.0",
-    "webpack-bundle-analyzer": "^3.5.1"
+    "webpack-bundle-analyzer": "^4.0.0"
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.7.4",
