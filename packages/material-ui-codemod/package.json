@@ -28,7 +28,7 @@
   "dependencies": {
     "@babel/core": "^7.4.5",
     "@babel/traverse": "^7.6.2",
-    "jscodeshift-add-imports": "^1.0.1"
+    "jscodeshift-add-imports": "^1.0.4"
   },
   "devDependencies": {
     "jscodeshift": "^0.7.0"
