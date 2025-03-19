@@ -26,9 +26,9 @@
   "license": "MIT",
   "homepage": "https://github.com/mui-org/material-ui/tree/master/packages/material-ui-codemod",
   "dependencies": {
-    "@babel/core": "^7.4.5",
+    "@babel/core": "^7.26.10",
     "@babel/traverse": "^7.6.2",
-    "jscodeshift-add-imports": "^1.0.1"
+    "jscodeshift-add-imports": "^1.0.5"
   },
   "devDependencies": {
     "jscodeshift": "^0.7.0"
